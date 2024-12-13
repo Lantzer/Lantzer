@@ -12,9 +12,5 @@
 
 Thanks for checking out my GitHub profile!
 
-Currently, the majority of projects on my profile will be from different courses I have taken throughout my schooling, but am planning to add more personal projects as I continue to learn new languages, and build on those I already know.
-
-My current interests are with Networking, after setting up my home network to use a Raspberry Pi as a DNS server, with a Pi-Hole block list, I have been interested in other ways to use my technological skills to improve my home.
-
 ### My Outside Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-lantzer-680b5318a/)
