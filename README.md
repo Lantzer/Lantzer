@@ -1,5 +1,5 @@
 # Preston Lantzer
-## Student at Eastern Washington University.
+## Student at Eastern Washington University
 #### Majoring in Computer Science with a Minor in Cybersecurity
 ##### Graduating  June 2025
 
