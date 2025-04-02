@@ -9,6 +9,7 @@ Thanks for checking out my GitHub profile!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 <br>
 ![Wireshark](https://img.shields.io/badge/Wireshark-Protocol%20Analyzer-blue?style=plastic&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=plastic&logo=internetexplorer&logoColor=white)
