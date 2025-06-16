@@ -6,15 +6,16 @@ Thanks for checking out my GitHub profile!
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=platic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=platic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Protocol%20Analyzer-blue?style=plastic&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=plastic&logo=internetexplorer&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-Network%20Blocker-red?style=plastic&logo=pihole&logoColor=white)
+
 
 
 ### My Outside Profiles
