@@ -1,9 +1,5 @@
 # Preston Lantzer
-### Majored in Computer Science with a Minor in Cybersecurity at Eastern Washington University
-#### Graduated June 2025
-
-Thanks for checking out my GitHub profile!
-
+CS Graduate | Aspiring Software Engineer
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
